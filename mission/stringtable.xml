@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma3Il">
+    <Package name="A3IL_Lang">
+        <Key ID="STR_A3IL_Global_Close">
+            <Original>Close</Original>
+            <English>Close</English>
+            <French>Fermer</French>
+        </Key>
+        <Key ID="STR_A3IL_Global_Loading">
+            <Original>Loading ...</Original>
+            <English>Loading ...</English>
+            <French>Chargement ...</French>
+        </Key>
+    </Package>
+    <Package name="A3IL_Errors">
+        <Key ID="STR_A3IL_Errors_UnableOpenDisplay">
+            <Original>Unable to open the display window</Original>
+            <English>Unable to open the display window</English>
+            <French>Impossible d'ouvrir la fenêtre d'affichage</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_UrlRequired">
+            <Original>URL required</Original>
+            <English>URL required</English>
+            <French>URL obligatoire</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_MissingArgs_CallExtension">
+            <Original>Missing argument in the extension call</Original>
+            <English>Missing argument in the extension call</English>
+            <French>Argument manquant dans l'appel de l'extension</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_FileExtensionNotSupported">
+            <Original>File extension not supported</Original>
+            <English>File extension not supported</English>
+            <French>Extension de fichier non supporté</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_DomainName_NotAllowedByServer">
+            <Original>Domain name not authorised by the server mission</Original>
+            <English>Domain name not authorised by the server mission</English>
+            <French>Nom de domaine non autorisé par la mission du serveur</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_DomainName_NotAllowedByClient">
+            <Original>Domain name not authorised by your local configuration (arma3il_whitelist.txt)</Original>
+            <English>Domain name not authorised by your local configuration (arma3il_whitelist.txt)</English>
+            <French>Nom de domaine non autorisé par votre configuration locale (arma3il_whitelist.txt)</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_Decode_Failed">
+            <Original>Error whilst decoding the image in memory</Original>
+            <English>Error whilst decoding the image in memory</English>
+            <French>Erreur lors du decodage de l'image en mémoire</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_HTTP_404">
+            <Original>Image not found (link has expired or is invalid)</Original>
+            <English>Image not found (link has expired or is invalid)</English>
+            <French>Image introuvable (lien expiré ou invalide)</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_HTTP_403">
+            <Original>Access denied by the server hosting the image</Original>
+            <English>Access denied by the server hosting the image</English>
+            <French>Accès refusé par le serveur hébergeant l'image</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_HTTP_XXX">
+            <Original>The server responded with HTTP status code %1</Original>
+            <English>The server responded with HTTP status code %1</English>
+            <French>Le serveur a répondu avec le code http %1</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_CURL_Err">
+            <Original>Network error: %1</Original>
+            <English>Network error: %1</English>
+            <French>Erreur réseau : %1</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_Default_VerifyLink_Error">
+            <Original>Failed to verify the link for resource %1: %2.</Original>
+            <English>Failed to verify the link for resource %1: %2.</English>
+            <French>Échec de la vérification du lien de la ressource %1: %2.</French>
+        </Key>
+        <Key ID="STR_A3IL_Errors_Default_Download_Error">
+            <Original>Failed to download resource %1: %2.</Original>
+            <English>Failed to download resource %1: %2.</English>
+            <French>Échec du téléchargement de la ressource %1: %2.</French>
+        </Key>
+    </Package>
+</Project>

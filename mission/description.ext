@@ -1,0 +1,15 @@
+class CfgFunctions {
+    class Arma3Il_Core_Client {
+        tag = "Arma3il";
+        class ImageViewver
+        {
+            file = "sqf";
+            class DisplayImage {};
+            class LoadImage {};
+            class OnExtensionCallback {};
+        };
+    };
+};
+
+#include "dialog\common.hpp"
+#include "dialog\imageViewver.hpp"
